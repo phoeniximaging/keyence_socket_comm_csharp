@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\howards_random_stuff\\projects\\keyence_comm_csharp\\Keyence_Comm_csharp\\Keyence_Comm_csharp.csproj": {}
+  },
+  "projects": {
+    "E:\\howards_random_stuff\\projects\\keyence_comm_csharp\\Keyence_Comm_csharp\\Keyence_Comm_csharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\howards_random_stuff\\projects\\keyence_comm_csharp\\Keyence_Comm_csharp\\Keyence_Comm_csharp.csproj",
+        "projectName": "Keyence_Comm_csharp",
+        "projectPath": "E:\\howards_random_stuff\\projects\\keyence_comm_csharp\\Keyence_Comm_csharp\\Keyence_Comm_csharp.csproj",
+        "packagesPath": "C:\\Users\\Howard\\.nuget\\packages\\",
+        "outputPath": "E:\\howards_random_stuff\\projects\\keyence_comm_csharp\\Keyence_Comm_csharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Howard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

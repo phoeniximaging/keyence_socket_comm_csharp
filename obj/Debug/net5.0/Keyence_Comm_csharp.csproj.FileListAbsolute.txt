@@ -1,0 +1,16 @@
+E:\howards_random_stuff\projects\keyence_comm_csharp\Keyence_Comm_csharp\bin\Debug\net5.0\Keyence_Comm_csharp.exe
+E:\howards_random_stuff\projects\keyence_comm_csharp\Keyence_Comm_csharp\bin\Debug\net5.0\Keyence_Comm_csharp.deps.json
+E:\howards_random_stuff\projects\keyence_comm_csharp\Keyence_Comm_csharp\bin\Debug\net5.0\Keyence_Comm_csharp.runtimeconfig.json
+E:\howards_random_stuff\projects\keyence_comm_csharp\Keyence_Comm_csharp\bin\Debug\net5.0\Keyence_Comm_csharp.runtimeconfig.dev.json
+E:\howards_random_stuff\projects\keyence_comm_csharp\Keyence_Comm_csharp\bin\Debug\net5.0\Keyence_Comm_csharp.dll
+E:\howards_random_stuff\projects\keyence_comm_csharp\Keyence_Comm_csharp\bin\Debug\net5.0\ref\Keyence_Comm_csharp.dll
+E:\howards_random_stuff\projects\keyence_comm_csharp\Keyence_Comm_csharp\bin\Debug\net5.0\Keyence_Comm_csharp.pdb
+E:\howards_random_stuff\projects\keyence_comm_csharp\Keyence_Comm_csharp\obj\Debug\net5.0\Keyence_Comm_csharp.csproj.AssemblyReference.cache
+E:\howards_random_stuff\projects\keyence_comm_csharp\Keyence_Comm_csharp\obj\Debug\net5.0\Keyence_Comm_csharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\howards_random_stuff\projects\keyence_comm_csharp\Keyence_Comm_csharp\obj\Debug\net5.0\Keyence_Comm_csharp.AssemblyInfoInputs.cache
+E:\howards_random_stuff\projects\keyence_comm_csharp\Keyence_Comm_csharp\obj\Debug\net5.0\Keyence_Comm_csharp.AssemblyInfo.cs
+E:\howards_random_stuff\projects\keyence_comm_csharp\Keyence_Comm_csharp\obj\Debug\net5.0\Keyence_Comm_csharp.csproj.CoreCompileInputs.cache
+E:\howards_random_stuff\projects\keyence_comm_csharp\Keyence_Comm_csharp\obj\Debug\net5.0\Keyence_Comm_csharp.dll
+E:\howards_random_stuff\projects\keyence_comm_csharp\Keyence_Comm_csharp\obj\Debug\net5.0\ref\Keyence_Comm_csharp.dll
+E:\howards_random_stuff\projects\keyence_comm_csharp\Keyence_Comm_csharp\obj\Debug\net5.0\Keyence_Comm_csharp.pdb
+E:\howards_random_stuff\projects\keyence_comm_csharp\Keyence_Comm_csharp\obj\Debug\net5.0\Keyence_Comm_csharp.genruntimeconfig.cache
